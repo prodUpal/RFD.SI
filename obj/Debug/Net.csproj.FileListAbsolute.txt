@@ -1,0 +1,16 @@
+D:\Programming\Study\Дипломная работа\NPFGEO\LWD\Net\bin\Debug\Net.dll
+D:\Programming\Study\Дипломная работа\NPFGEO\LWD\Net\bin\Debug\Net.pdb
+D:\Programming\Study\Дипломная работа\NPFGEO\LWD\Net\bin\Debug\GeoCore.pdb
+D:\Programming\Study\Дипломная работа\NPFGEO\LWD\Net\obj\Debug\Net.csproj.AssemblyReference.cache
+D:\Programming\Study\Дипломная работа\NPFGEO\LWD\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+D:\Programming\Study\Дипломная работа\NPFGEO\LWD\Net\obj\Debug\Net.csproj.Up2Date
+D:\Programming\Study\Дипломная работа\NPFGEO\LWD\Net\obj\Debug\Net.dll
+D:\Programming\Study\Дипломная работа\NPFGEO\LWD\Net\obj\Debug\Net.pdb
+C:\Users\prod_upal\Desktop\Net\bin\Debug\Net.dll
+C:\Users\prod_upal\Desktop\Net\bin\Debug\Net.pdb
+C:\Users\prod_upal\Desktop\Net\bin\Debug\GeoCore.pdb
+C:\Users\prod_upal\Desktop\Net\obj\Debug\Net.csproj.AssemblyReference.cache
+C:\Users\prod_upal\Desktop\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\prod_upal\Desktop\Net\obj\Debug\Net.csproj.Up2Date
+C:\Users\prod_upal\Desktop\Net\obj\Debug\Net.dll
+C:\Users\prod_upal\Desktop\Net\obj\Debug\Net.pdb

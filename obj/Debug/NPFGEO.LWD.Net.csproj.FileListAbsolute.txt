@@ -1,0 +1,34 @@
+C:\Users\MunasipovRR\Source\Repos\Genesis_GIT\LWD\NPFGEO.LWD.Net\bin\Debug\NPFGEO.LWD.Net.dll
+C:\Users\MunasipovRR\Source\Repos\Genesis_GIT\LWD\NPFGEO.LWD.Net\bin\Debug\NPFGEO.LWD.Net.pdb
+C:\Users\MunasipovRR\Source\Repos\Genesis_GIT\LWD\NPFGEO.LWD.Net\bin\Debug\GeoCore.dll
+C:\Users\MunasipovRR\Source\Repos\Genesis_GIT\LWD\NPFGEO.LWD.Net\bin\Debug\NLog.dll
+C:\Users\MunasipovRR\Source\Repos\Genesis_GIT\LWD\NPFGEO.LWD.Net\bin\Debug\GeoCore.pdb
+C:\Users\MunasipovRR\Source\Repos\Genesis_GIT\LWD\NPFGEO.LWD.Net\bin\Debug\NLog.xml
+C:\Users\MunasipovRR\Source\Repos\Genesis_GIT\LWD\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.csproj.AssemblyReference.cache
+C:\Users\MunasipovRR\Source\Repos\Genesis_GIT\LWD\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.csproj.CoreCompileInputs.cache
+C:\Users\MunasipovRR\Source\Repos\Genesis_GIT\LWD\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.csproj.CopyComplete
+C:\Users\MunasipovRR\Source\Repos\Genesis_GIT\LWD\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.dll
+C:\Users\MunasipovRR\Source\Repos\Genesis_GIT\LWD\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.pdb
+C:\Users\bytei\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.dll
+C:\Users\bytei\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.pdb
+C:\Users\bytei\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.csproj.AssemblyReference.cache
+C:\Users\bytei\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.csproj.CoreCompileInputs.cache
+C:\Users\bytei\Desktop\NPFGEO.LWD.Net\bin\Debug\NPFGEO.LWD.Net.dll
+C:\Users\bytei\Desktop\NPFGEO.LWD.Net\bin\Debug\NPFGEO.LWD.Net.pdb
+C:\Users\bytei\Desktop\NPFGEO.LWD.Net\bin\Debug\GeoCore.dll
+C:\Users\bytei\Desktop\NPFGEO.LWD.Net\bin\Debug\GeoCore.pdb
+C:\Users\bytei\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.L.E319ED9A.Up2Date
+D:\Programming\Study\Дипломная работа\NPFGEO\NPFGEO.LWD.Net\bin\Debug\NPFGEO.LWD.Net.pdb
+D:\Programming\Study\Дипломная работа\NPFGEO\NPFGEO.LWD.Net\bin\Debug\GeoCore.pdb
+D:\Programming\Study\Дипломная работа\NPFGEO\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.csproj.AssemblyReference.cache
+D:\Programming\Study\Дипломная работа\NPFGEO\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.csproj.CoreCompileInputs.cache
+D:\Programming\Study\Дипломная работа\NPFGEO\NPFGEO.LWD.Net\obj\Debug\NPFGEO.L.E319ED9A.Up2Date
+D:\Programming\Study\Дипломная работа\NPFGEO\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.dll
+D:\Programming\Study\Дипломная работа\NPFGEO\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.pdb
+C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\bin\Debug\NPFGEO.LWD.Net.pdb
+C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\bin\Debug\GeoCore.pdb
+C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.csproj.AssemblyReference.cache
+C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.csproj.CoreCompileInputs.cache
+C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.L.E319ED9A.Up2Date
+C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.dll
+C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.pdb
