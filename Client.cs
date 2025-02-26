@@ -8,6 +8,7 @@ using System.Runtime.InteropServices;
 using System.Runtime.Serialization;
 using System.Text;
 using System.Threading.Tasks;
+using ICSharpCode.SharpZipLib.Zip;
 
 using NPFGEO;
 
@@ -110,13 +111,41 @@ namespace NPFGEO.LWD.Net
 
                         using (MemoryStream ms = new MemoryStream(buffer))
                         {
+                            
+                            try
+                            {
+                                // Попытка прочитать как ZIP-архив
+                                ZipInputStream zipStream = new ZipInputStream(ms);
+            
+                                ZipEntry entry;
+                                while ((entry = zipStream.GetNextEntry()) != null)
+                                {
+                                    byte[] decompressedData = new byte[entry.Size];
+                                    zipStream.Read(decompressedData, 0, decompressedData.Length);
+                
+                                    // Теперь можно десериализовать распакованное содержимое
+                                    ms.Position = 0;
+                                    DataObject dataobj = DataContractHelper<DataObject>.Deserialize(ms);
+                                    Console.WriteLine("DATA ZIP TEST OUTPUT " + dataobj.ToString());
+                                    ReceiveData?.Invoke(this, new ReceiveDataEventArgs() { Data = dataobj });
+                                    
+                                }
+                            }
+                            catch (Exception ex)
+                            {
+                                Console.WriteLine("Ошибка при обработке ZIP-архива: " + ex.Message);
+                                // Если это не ZIP-архив, пробуем стандартную десериализацию
+                                
+                            }
+                            
                             try
                             {
                                 Settings settings = SwapHelper.DeserializeSettings(buffer);
-                                Console.WriteLine("SETTINGS TEST OUTPUT " + settings);
+                                Console.WriteLine("SETTINGS TEST OUTPUT " + settings); 
                                 ReceiveSettings?.Invoke(this, new ReceiveSettingsEventArgs() { Settings = settings });
                             }
                             catch (Exception exc) {
+                                
                                 Console.WriteLine(exc.Message +  " SETTINGS TEST OUTPUT EXCEPTION");
                             }
 
@@ -124,12 +153,12 @@ namespace NPFGEO.LWD.Net
                             {
                                 ms.Position = 0;
                                 DataObject dataobj = DataContractHelper<DataObject>.Deserialize(ms);
-                                //Console.WriteLine("DATA TEST OUTPUT" + dataobj);
+                                Console.WriteLine("DATA TEST OUTPUT" + dataobj.ToString());
                                 ReceiveData?.Invoke(this, new ReceiveDataEventArgs() { Data = dataobj });
                             }
                             catch (Exception ex)
                             {
-                                //Console.WriteLine(ex.Message +  " DATA TEST OUTPUT EXCEPTION");
+                                Console.WriteLine(ex.Message +  " DATA TEST OUTPUT EXCEPTION");
                             }
                         }
                     }

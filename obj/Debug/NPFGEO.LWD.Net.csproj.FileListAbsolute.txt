@@ -26,9 +26,9 @@ D:\Programming\Study\Дипломная работа\NPFGEO\NPFGEO.LWD.Net\obj\D
 D:\Programming\Study\Дипломная работа\NPFGEO\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.dll
 D:\Programming\Study\Дипломная работа\NPFGEO\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.pdb
 C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\bin\Debug\NPFGEO.LWD.Net.pdb
-C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\bin\Debug\GeoCore.pdb
 C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.csproj.AssemblyReference.cache
 C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.csproj.CoreCompileInputs.cache
-C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.L.E319ED9A.Up2Date
 C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.dll
 C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.pdb
+C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\prod_upal\Desktop\NPFGEO.LWD.Net\obj\Debug\NPFGEO.LWD.Net.csproj.CopyComplete
